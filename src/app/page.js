@@ -204,9 +204,9 @@ General: If none of the above are matched, use General
           <SheetContent>
             <SheetHeader>
               <SheetTitle><div className="">
-                <p className={
+              <p className={
                   classifications[email.msgDetails.id] == "Important" || classifications[email.msgDetails.id] == "Security"
-                    ? "text-yellow-500"
+                    ? "text-green-500"
                     : classifications[email.msgDetails.id] == "Marketing"
                       ? "text-orange-500"
                       : classifications[email.msgDetails.id] == "General"
