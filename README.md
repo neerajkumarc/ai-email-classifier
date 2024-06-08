@@ -2,6 +2,10 @@
 
 This project is a web application that allows users to sign in with their Google account, fetch their latest emails, classify them into categories, and display them with color-coded labels. The classifications include Important, Promotions, Social, Marketing, Spam, and General.
 
+## Demo
+
+https://github.com/neerajkumarc/ai-email-classifier/assets/78979288/10417e57-d74a-47a0-a175-87d73ab3c748
+
 
 ## Getting Started
 
@@ -71,9 +75,6 @@ This project is a web application that allows users to sign in with their Google
   - **General**: Blue
 - **Sign Out**: Click on "Logout" to sign out of your Google account.
 
-## Demo
-
-https://github.com/neerajkumarc/ai-email-classifier/assets/78979288/10417e57-d74a-47a0-a175-87d73ab3c748
 
 ## Contributing
 
